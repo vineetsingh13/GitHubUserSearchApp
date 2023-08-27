@@ -1,16 +1,9 @@
 # search_app
 
-A new Flutter project.
+A Github User Search App where users can search for a person with the username and view their profile
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Link to the video demo
+- https://drive.google.com/file/d/1AVJuGIVoh1dqN1mJFuRwX5FCxV6H0kaB/view?usp=drivesdk
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
