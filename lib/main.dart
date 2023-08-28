@@ -17,12 +17,12 @@ class MyApp extends StatelessWidget {
         title: 'Flutter Demo',
         home: AnimatedSplashScreen(
             splash: Container(
-              child: Text(
-                'splash screen',
-                style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-              ),
+              width: 500, // Adjust the width as needed
+              height: 500, // Adjust the height as needed
+              child: Image.asset('images/icons8-github-500.png'),
             ),
-            duration: 3000,
+            duration: 1000,
+            splashTransition: SplashTransition.rotationTransition,
             nextScreen: HomePage()));
   }
 }
