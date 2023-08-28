@@ -4,6 +4,6 @@ A Github User Search App where users can search for a person with the username a
 
 
 ## Link to the video demo
-- https://drive.google.com/file/d/1AVJuGIVoh1dqN1mJFuRwX5FCxV6H0kaB/view?usp=drivesdk
+-https://drive.google.com/file/d/1C9GHlF3ENk0XR4bWfqShCSroEKQoFr8e/view?usp=drivesdk
 
 
